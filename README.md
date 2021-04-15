@@ -14,10 +14,10 @@ Este projeto conta com a utilização de dois pacotes:
 
 <br/>
 
-![sucesso](.github/sucesso.png)
+![sucesso](https://github.com/fernandowmartens/bot-temperatura/blob/master/.github/sucesso.PNG?raw=true)
 
 ### Busca não encontrada
 
 <br/>
 
-![erro](.github/erro.png)
+![erro](https://github.com/fernandowmartens/bot-temperatura/blob/master/.github/false.PNG?raw=true)
