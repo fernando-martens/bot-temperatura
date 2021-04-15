@@ -20,4 +20,4 @@ Este projeto conta com a utilização de dois pacotes:
 
 <br/>
 
-![erro](https://github.com/fernandowmartens/bot-temperatura/blob/master/.github/false.PNG?raw=true)
+![erro](https://github.com/fernandowmartens/bot-temperatura/blob/master/.github/erro.PNG?raw=true)
