@@ -29,7 +29,7 @@ async function robo() {
   }
 
   if (content.wob_loc == (null || undefined)) {
-    console.log("Cidade não encontrada 😞");
+    console.log("\nCidade não encontrada 😞");
   } else {
     console.log("\nLocalização: 🗺️ ", content.wob_loc);
     console.log("Temperatura: 🌡️ ", content.wob_tm, "°C");
