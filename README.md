@@ -21,3 +21,12 @@ Este projeto conta com a utilização de dois pacotes:
 <br/>
 
 ![erro](https://github.com/fernandowmartens/bot-temperatura/blob/master/.github/erro.PNG?raw=true)
+
+
+## Como fazer funfar 😄
+
+1. Faça o dowload do Nodejs (caso já não possua)
+2. Clone o meu repositório para a sua máquina local
+3. Abra a pasta na qual você clonou o conteúdo usando o cmd (Prompt de Comando)
+4. Execute o comando 'npm install'
+5. Execute o comando 'node index.js'
