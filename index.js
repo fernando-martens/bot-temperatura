@@ -2,7 +2,7 @@ const puppeteer = require("puppeteer");
 
 var readlineSync = require("readline-sync");
 
-console.log("\nBem vindo ao Bot da temperatura ☁️\n");
+console.log("\nBem-vindo ao Bot da temperatura ☁️\n");
 
 async function robo() {
   const browser = await puppeteer.launch();
